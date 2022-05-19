@@ -10,4 +10,7 @@ Atualizando o repositorio de github com essa atualização.
 Documento de referência sobre patch
 https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile#common-reasons-that-contributions-are-not-counted
 
+## Lição de vida sobre --replace-all
+https://pt.stackoverflow.com/questions/533740/git-github-commit-da-mesma-pessoa-usu%c3%a1rios-diferentes-github-n%c3%a3o-contabili
 
+O replace all recarrega todas as configs a partir do comando que você dá
