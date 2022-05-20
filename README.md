@@ -17,7 +17,7 @@ O replace all recarrega todas as configs a partir do comando que você dá
 
 ## Testando git rebase -i master~2 
 
-Juntar 2 ou mair commits
+Juntar 2 ou mair commitss
 
 ## Testando git rebase -i master~2 
 
